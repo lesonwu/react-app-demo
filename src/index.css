@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.err-msg{
+    color:#f50;
+    text-align:center;
+}
+.avatar{
+    display:block;
+    height:40px;
+    line-height:40px;
+    margin-left:12px;
+}
